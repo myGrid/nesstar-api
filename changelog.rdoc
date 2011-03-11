@@ -1,6 +1,8 @@
-=v 0.0.2
-* Retrieve descriptions for catalogs and datasets.
+= v 0.0.3
 * Fix category statistics parsing from the ddi files
+
+= v 0.0.2
+* Retrieve descriptions for catalogs and datasets.
 * Moved to different git repo
 
 = v 0.0.1
