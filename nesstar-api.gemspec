@@ -21,5 +21,5 @@ Gem::Specification.new do |s|
   
   s.add_dependency("nokogiri", "1.4.4")
   s.add_dependency("rubytree", "0.8.1")
-  s.add_dependency("libxml-ruby","1.1.4")
+  s.add_dependency("libxml-ruby","2.2.0")
 end
