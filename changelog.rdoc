@@ -1,4 +1,4 @@
-= v0.0.4
+= v0.0.5
 * Switch to libxml-ruby 2.2.0.
 
 = v 0.0.3
