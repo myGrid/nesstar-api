@@ -1,4 +1,7 @@
-= v0.0.5
+= v 0.0.6
+* Latest versions of nokogiri and libxml
+*
+= v 0.0.5
 * Switch to libxml-ruby 2.2.0.
 
 = v 0.0.3
